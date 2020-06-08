@@ -3,22 +3,22 @@
 
 - You are at the right place if you are looking to:
 
-1. Setup Darknet with Eclipse with ease.
-2. Start a project with Darknet but using C++.
-3. Work on Darkent with an IDE.
+    1. Setup Darknet with Eclipse with ease.
+    2. Start a project with Darknet using C++.
+    3. Work on Darknet with an IDE.
 
 - Tested on Nsight Eclipse Edition
 
 - darknet.h contains flags.
 
-```
-#define GPU 1
-#define CUDNN 1
-#define OPENCV 1
-#define OPENMP 1
-#define DEBUG 0
+    ```
+    #define GPU 1
+    #define CUDNN 1
+    #define OPENCV 1
+    #define OPENMP 1
+    #define DEBUG 0
 
-```
+    ```
 
 - Source.cpp contains detector code as a sample. 
 
