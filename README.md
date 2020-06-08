@@ -1,2 +1,2 @@
-# Yolo3-For-Eclipse
+# Darknet-For-Eclipse
 Darknet Source Code Modification for Simple Eclipse Projects.
